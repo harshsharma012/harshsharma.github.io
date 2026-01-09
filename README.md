@@ -119,7 +119,5 @@ I am actively seeking opportunities such as:
 
 ## 📫 Contact & Links
 
-- **Email:** harshsharma7020@gmail.com  
-- **Phone:** +91 8830477218  
-- **LinkedIn:** https://www.linkedin.com/in/harsh-sharma-291048353/
+[Email] (mailto:harshsharma7020@gmail.com) / [LinkedIn] (https://www.linkedin.com/in/harsh-sharma-291048353/) / [Phone] (+91 8830477218)
 
