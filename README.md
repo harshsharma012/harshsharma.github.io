@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-I’m **Harsh Manoj Sharma**, a **B.Tech Computer Science Engineering student** specializing in **IoT, Cybersecurity, and Blockchain** at **MGMU School of Engineering and Technology, Aurangabad**.
+I’m **Harsh Manoj Sharma**, a **B.Tech Computer Science Engineering student** specializing in **IoT, Cybersecurity, and Blockchain**.
 
 I am deeply curious, self-driven, and motivated to build real-world systems using software, data, and intelligent technologies. My interests span across **Python backend development, Machine Learning, AI, Cybersecurity, Blockchain, and IoT-based systems**.
 
