@@ -1,77 +1,92 @@
-# Hi 👋, I'm Harsh Manoj Sharma
+# Hi there 👋, I'm Harsh Manoj Sharma
 
-🎓 Computer Science Engineering Student (IoT, Cybersecurity & Blockchain)  
-💻 Python Developer | AI & ML Enthusiast | Software Engineering Learner  
-📍 India
+## 📞 Contact
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science Engineering (IoT, Cybersecurity & Blockchain)
-- 🌱 Currently learning Machine Learning, Artificial Intelligence, Gen AI, and Cloud Technologies
-- 💡 Passionate about building real-world software solutions
-- 💻 Interested in Python Development, IoT, Data Science, and Software Engineering
-- 🤝 Looking for Internship and Entry-Level Software Developer opportunities
+- 📱 **Phone:** +91-8830477218
+- 📧 **Email:** harshsharma7020@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/harsh-sharma-291048353/
 
 ---
 
-## 🛠️ Tech Stack
+# 📌 Summary
 
-### Programming Languages
+Motivated Computer Science Engineering student with hands-on experience in **Python, SQL, and IoT systems**. Strong interest in **Machine Learning, Artificial Intelligence, and Software Engineering**. Seeking opportunities to apply technical skills to real-world projects and grow in a professional environment.
+
+---
+
+# 🎓 Education
+
+### MGMU School of Engineering and Technology
+**B.Tech in Computer Science and Engineering (IoT, Cybersecurity and Blockchain)**  
+**Duration:** Aug 2023 – Jul 2026  
+**SGPA:** 8.99
+
+### VAPM Polytechnic
+**Diploma in Computer Engineering**  
+**Duration:** Aug 2019 – Oct 2022  
+**Percentage:** 69.31% (First Class)
+
+---
+
+# 💻 Technical Skills
+
+### Programming Languages & Database
 - Python
 - C
 - C++
 - SQL
 
-### Tools & Technologies
+### Cloud & Tools
+- Arduino IDE
+- Visual Studio Code
 - Git
 - GitHub
-- Visual Studio Code
-- Arduino IDE
-- AWS (Concepts)
+- AWS Concepts
 - LLMs
 
-### Core Knowledge
-- Object-Oriented Programming (OOP)
+### Core Domains
 - Software Development Life Cycle (SDLC)
 - Machine Learning
-- Artificial Intelligence
-- Data Science
+- Artificial Intelligence & Gen AI
 - Big Data
+- Data Science
+- Object-Oriented Programming (OOP)
 
 ---
 
-## 📂 Projects
+# 💼 Internship
 
-### 🚗 IoT Smart Parking System
-- Developed an IoT-based parking system for real-time parking slot monitoring.
-- Integrated RFID authentication with automated gate control.
-- Displayed parking availability using the Blynk platform.
+## Python Programming Intern | CodSoft.in
+**Duration:** Jun 2024 – Jul 2024
 
-**Tech Used:** Arduino, RFID, IoT, Blynk
+### Responsibilities
+- Developed Python programs using Functions and Object-Oriented Programming.
+- Implemented File Handling and Exception Handling in multiple assignments.
+- Solved programming challenges using Python.
+- Used GitHub for project submission and version control.
 
 ---
 
-### 📝 Online Examination System
+# 🚀 Projects
+
+## 🚗 IoT-Based Smart Parking System
+
+- Developed an IoT-based parking system for real-time slot monitoring.
+- Integrated RFID authentication and automated gate control.
+- Displayed parking availability through the Blynk platform.
+
+---
+
+## 📝 Online Examination System
+
 - Designed a secure online examination platform.
 - Implemented user authentication and timer-based exams.
-- Stored examination data using SQL.
+- Stored user and examination data using SQL.
 - Generated automatic results after exam submission.
 
-**Tech Used:** Python, SQL
-
 ---
 
-## 💼 Internship
-
-### Python Programming Intern | CodSoft
-- Developed Python applications using Functions and OOP.
-- Worked with File Handling and Exception Handling.
-- Solved Python programming challenges.
-- Used GitHub for version control and project submission.
-
----
-
-## 📜 Certifications
+# 📜 Certifications
 
 - Tata Forage Cybersecurity
 - HackerRank Python
@@ -80,22 +95,32 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+> Replace **YOUR_GITHUB_USERNAME** with your actual GitHub username.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
 
----
-
-## 📫 Connect with Me
-
-- 📧 Email: harshsharma7020@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/harsh-sharma-291048353/
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
 
 ---
 
-### 💡 Quote
+## 🌱 Currently Learning
 
-> "Keep Learning. Keep Building. Keep Growing. 🚀"
+- Machine Learning
+- Artificial Intelligence
+- Gen AI
+- Software Engineering
+- Cloud Technologies
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sharma-291048353)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsharma7020@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
