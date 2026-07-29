@@ -95,16 +95,6 @@ Motivated Computer Science Engineering student with hands-on experience in **Pyt
 
 ---
 
-## 📊 GitHub Stats
-
-> Replace **YOUR_GITHUB_USERNAME** with your actual GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
-
----
-
 ## 🌱 Currently Learning
 
 - Machine Learning
