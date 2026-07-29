@@ -104,13 +104,3 @@ Motivated Computer Science Engineering student with hands-on experience in **Pyt
 - Cloud Technologies
 
 ---
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-sharma-291048353)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsharma7020@gmail.com)
-
----
-
-⭐ *Thanks for visiting my GitHub profile!*
